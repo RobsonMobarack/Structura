@@ -55,7 +55,7 @@ Beyond the core requirements, this implementation includes:
 
 1.  Clone this repository:
     ```bash
-    git clone [https://github.com/RobsonMobarack/Structura](https://github.com/RobsonMobarack/Structura)
+    git clone https://github.com/RobsonMobarack/Structura
     ```
 2.  Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA, or NetBeans). Or, if you have Maven and the environment variables correctly configured, use:
     ```bash
