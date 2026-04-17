@@ -1,0 +1,36 @@
+# === Java & Maven ===
+*.class
+
+target/
+
+*.log
+
+# === Neovim / Vim ===
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-v][a-z]
+[._]sw[a-p]
+
+*.un~
+undo/
+
+Session.vim
+.netrwhist
+
+# === Eclipse ===
+.metadata
+.classpath
+.project
+.settings/
+bin/
+
+# === Oter IDEs ===
+.idea/
+*.iml
+*.iws
+.vscode/
+.factorypath
+
+# === SO ===
+.DS_Store
+Thumbs.db
